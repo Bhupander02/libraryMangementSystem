@@ -1,4 +1,4 @@
-# 📚 BookHaven - Interactive Book Management System
+# 📚 Book Library Management System
 
 A modern, responsive React application for browsing, searching, and managing book collections with persistent storage and cart functionality.
 
@@ -10,6 +10,7 @@ A modern, responsive React application for browsing, searching, and managing boo
 ## ✨ Features
 
 ### 🎯 Core Functionality
+
 - **Dynamic Book Catalog** - Browse through a curated collection of books with rich metadata
 - **Advanced Search** - Real-time search filtering by book title with instant results
 - **Category Filtering** - Filter books by categories: Science, Psychology, Drama, Self-Help, Fiction
@@ -17,6 +18,7 @@ A modern, responsive React application for browsing, searching, and managing boo
 - **Shopping Cart System** - Add, remove, and manage book selections using Redux state management
 
 ### 🛠️ Management Tools
+
 - **Add New Books** - Intuitive form to expand the catalog with validation:
   - Title & Author validation
   - Page count verification
@@ -28,6 +30,7 @@ A modern, responsive React application for browsing, searching, and managing boo
 - **Persistent State** - LocalStorage integration maintains your library across sessions
 
 ### 🎨 User Experience
+
 - **Responsive Design** - Fully adaptive layout using Tailwind CSS
 - **Modern UI** - Gradient backgrounds, hover effects, and smooth transitions
 - **Error Handling** - Comprehensive form validation with user-friendly error messages
@@ -36,47 +39,40 @@ A modern, responsive React application for browsing, searching, and managing boo
 ## 🚀 Getting Started
 
 ### Prerequisites
+
 - Node.js (v18.0.0 or higher)
 - npm or yarn package manager
 
 ### Installation
 
 1. **Clone the repository**
-   ```bash
    git clone &lt;your-repository-url&gt;
    cd bookhaven
-    git clone <your-repository-url>
+   git clone <your-repository-url>
    cd bookhaven
 
-    Install dependencies
-    bash
-    Copy
+2. **Install dependencies**
+   npm install
 
-    npm install
+3. **Start the development server**
 
-    Start the development server
-    bash
-    Copy
+   npm run dev
 
-    npm run dev
+   Open your browser
+   Navigate to http://localhost:5173
 
-    Open your browser
-    Navigate to http://localhost:5173
+4. **Build for Production**
+   npm run build
 
-Build for Production
-bash
-Copy
+### 📖 Usage Guide
 
-npm run build
-
-📖 Usage Guide
-Browsing Books
+### Browsing Books
 
     Home Page - Landing page with navigation
     Browse Page (/browse) - View all books in a responsive grid layout
     Category Pages (/browse/:category) - Filter by specific genres
 
-Managing Books
+### Managing Books
 
     Add Book (/add) - Click "Add New Book" and fill the form:
         Ensure rating follows the format X.X/10
@@ -84,42 +80,40 @@ Managing Books
         Select from valid categories only
     Book Details (/book/:id) - Click any book card to view details and manage cart
 
-Search Functionality
+### Search Functionality
 
     Use the search bar on the browse page for real-time filtering
     Results update instantly as you type
     Case-insensitive title matching
 
-Cart Operations
+### Cart Operations
 
     Add to Cart - Available on book detail pages
     Remove Item - Remove specific books from cart
     Clear Cart - Empty entire cart in one action
 
-🏗️ Project Structure
-Copy
+### 🏗️ Project Structure
 
 src/
 ├── components/
-│   ├── App.jsx              # Root component with Redux Provider
-│   ├── Book.jsx             # Book card component
-│   ├── BookDetails.jsx      # Detailed book view with cart actions
-│   ├── BookList.jsx         # Grid layout for book collections
-│   ├── BrowsePage.jsx       # Category filtering page
-│   ├── AddBook.jsx          # Form for adding new books
-│   ├── Search.jsx           # Real-time search component
-│   ├── Header.jsx           # Navigation header
-│   ├── HomePage.jsx         # Landing page
-│   ├── Contact.jsx          # Contact page
-│   └── Error.jsx            # Error boundary
+│ ├── App.jsx # Root component with Redux Provider
+│ ├── Book.jsx # Book card component
+│ ├── BookDetails.jsx # Detailed book view with cart actions
+│ ├── BookList.jsx # Grid layout for book collections
+│ ├── BrowsePage.jsx # Category filtering page
+│ ├── AddBook.jsx # Form for adding new books
+│ ├── Search.jsx # Real-time search component
+│ ├── Header.jsx # Navigation header
+│ ├── HomePage.jsx # Landing page
+│ ├── Contact.jsx # Contact page
+│ └── Error.jsx # Error boundary
 ├── utils/
-│   ├── bookStorage.js       # LocalStorage management & mock data merger
-│   ├── mockdata.js          # Initial book dataset
-│   ├── appStore.js          # Redux store configuration
-│   └── cartSlice.js         # Redux cart slice
-├── index.css                # Global styles
-└── main.jsx                 # Application entry point
-
+│ ├── bookStorage.js # LocalStorage management & mock data merger
+│ ├── mockdata.js # Initial book dataset
+│ ├── appStore.js # Redux store configuration
+│ └── cartSlice.js # Redux cart slice
+├── index.css # Global styles
+└── main.jsx # Application entry point
 💾 Data Persistence
 The application uses a sophisticated storage strategy:
 
@@ -131,13 +125,13 @@ The application uses a sophisticated storage strategy:
 🛣️ Routes
 Table
 Copy
-Route	Component	Description
-/	HomePage	Landing page
-/browse	BookList	All books grid
-/browse/:category	BrowsePage	Filtered by category
-/book/:id	BookDetails	Single book view
-/add	AddBook	Add new book form
-/contact	Contact	Contact information
+Route Component Description
+/ HomePage Landing page
+/browse BookList All books grid
+/browse/:category BrowsePage Filtered by category
+/book/:id BookDetails Single book view
+/add AddBook Add new book form
+/contact Contact Contact information
 🧪 Validation Rules
 When adding new books, the following validations apply:
 
