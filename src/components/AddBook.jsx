@@ -72,7 +72,7 @@ export default function AddBook() {
       publishedDate: new Date().toISOString().split("T")[0],
     };
 
-    saveBooks([...books, newBook]);
+    saveBooks([newBook, ...books]);
     navigate("/browse");
   }
 
