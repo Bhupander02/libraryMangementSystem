@@ -93,27 +93,27 @@ A modern, responsive React application for browsing, searching, and managing boo
     Clear Cart - Empty entire cart in one action
 
 ### 🏗️ Project Structure
-
-src/
-├── components/
-│ ├── App.jsx # Root component with Redux Provider
-│ ├── Book.jsx # Book card component
-│ ├── BookDetails.jsx # Detailed book view with cart actions
-│ ├── BookList.jsx # Grid layout for book collections
-│ ├── BrowsePage.jsx # Category filtering page
-│ ├── AddBook.jsx # Form for adding new books
-│ ├── Search.jsx # Real-time search component
-│ ├── Header.jsx # Navigation header
-│ ├── HomePage.jsx # Landing page
-│ ├── Contact.jsx # Contact page
-│ └── Error.jsx # Error boundary
-├── utils/
-│ ├── bookStorage.js # LocalStorage management & mock data merger
-│ ├── mockdata.js # Initial book dataset
-│ ├── appStore.js # Redux store configuration
-│ └── cartSlice.js # Redux cart slice
-├── index.css # Global styles
-└── main.jsx # Application entry point
+Structure inside the Project:
+        src/
+        ├── components/
+        │ ├── App.jsx # Root component with Redux Provider
+        │ ├── Book.jsx # Book card component
+        │ ├── BookDetails.jsx # Detailed book view with cart actions
+        │ ├── BookList.jsx # Grid layout for book collections
+        │ ├── BrowsePage.jsx # Category filtering page
+        │ ├── AddBook.jsx # Form for adding new books
+        │ ├── Search.jsx # Real-time search component
+        │ ├── Header.jsx # Navigation header
+        │ ├── HomePage.jsx # Landing page
+        │ ├── Contact.jsx # Contact page
+        │ └── Error.jsx # Error boundary
+        ├── utils/
+        │ ├── bookStorage.js # LocalStorage management & mock data merger
+        │ ├── mockdata.js # Initial book dataset
+        │ ├── appStore.js # Redux store configuration
+        │ └── cartSlice.js # Redux cart slice
+        ├── index.css # Global styles
+        └── main.jsx # Application entry point
 
 ### 💾 Data Persistence
 
