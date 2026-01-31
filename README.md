@@ -114,7 +114,9 @@ src/
 │ └── cartSlice.js # Redux cart slice
 ├── index.css # Global styles
 └── main.jsx # Application entry point
-💾 Data Persistence
+
+### 💾 Data Persistence
+
 The application uses a sophisticated storage strategy:
 
     Initial Load: Populates LocalStorage with mock data on first visit
@@ -122,17 +124,20 @@ The application uses a sophisticated storage strategy:
     Port Isolation: Data is scoped per origin (localhost:5173 vs 5174 maintain separate instances)
     Reset Function: Call resetBooks() in browser console to restore original dataset
 
-🛣️ Routes
-Table
-Copy
-Route Component Description
-/ HomePage Landing page
-/browse BookList All books grid
-/browse/:category BrowsePage Filtered by category
-/book/:id BookDetails Single book view
-/add AddBook Add new book form
-/contact Contact Contact information
-🧪 Validation Rules
+### 🛣️ Routes
+
+        Table
+        Copy
+        Route Component Description
+        / HomePage Landing page
+        /browse BookList All books grid
+        /browse/:category BrowsePage Filtered by category
+        /book/:id BookDetails Single book view
+        /add AddBook Add new book form
+        /contact Contact Contact information
+
+### 🧪 Validation Rules
+
 When adding new books, the following validations apply:
 
     Title: Required, non-empty string
@@ -143,7 +148,7 @@ When adding new books, the following validations apply:
     Cover Image: Valid URL format required
     Description: Minimum 20 characters
 
-🎨 Styling
+## 🎨 Styling
 
     Framework: Tailwind CSS with custom configurations
     Design System:
@@ -151,3 +156,5 @@ When adding new books, the following validations apply:
         Blue accent colors for interactive elements
         Gradient backgrounds for premium feel
         Responsive breakpoints for mobile, tablet, and desktop
+
+### Thank You !!
