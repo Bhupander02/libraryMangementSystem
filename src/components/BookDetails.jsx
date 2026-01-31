@@ -23,7 +23,7 @@ export default function BookDetails() {
   }
 
   return (
-    <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-gray-950 via-gray-900 to-black text-white px-6">
+    <div className="min-h-screen flex items-center justify-center bg-linear-to-br from-gray-950 via-gray-900 to-black text-white px-6">
       <div className="max-w-5xl w-full bg-gray-900/80 backdrop-blur-xl rounded-3xl shadow-[0_25px_80px_rgba(0,0,0,0.6)] overflow-hidden grid md:grid-cols-2 transition-all duration-500 hover:scale-[1.015]">
         {/* Image Section */}
         <div className="bg-gradient-to-br from-black to-gray-900 flex items-center justify-center p-8">
