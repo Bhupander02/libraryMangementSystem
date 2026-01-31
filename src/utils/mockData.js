@@ -9,7 +9,7 @@ export const Books = [
     rating: "9.5/10",
     coverImage: "https://covers.openlibrary.org/b/id/7222246-L.jpg",
     description:
-      "A dystopian novel set in a totalitarian society ruled by Big Brother, where constant surveillance and political manipulation strip citizens of freedom, truth, and individuality."
+      "A dystopian novel set in a totalitarian society ruled by Big Brother, where constant surveillance and political manipulation strip citizens of freedom, truth, and individuality.",
   },
   {
     id: 2,
@@ -21,7 +21,7 @@ export const Books = [
     rating: "9/10",
     coverImage: "https://covers.openlibrary.org/b/id/8228691-L.jpg",
     description:
-      "A powerful story of racial injustice and moral growth in the American South, seen through the eyes of young Scout Finch as her father defends an innocent Black man."
+      "A powerful story of racial injustice and moral growth in the American South, seen through the eyes of young Scout Finch as her father defends an innocent Black man.",
   },
   {
     id: 3,
@@ -33,7 +33,7 @@ export const Books = [
     rating: "8.5/10",
     coverImage: "https://covers.openlibrary.org/b/id/7352163-L.jpg",
     description:
-      "A tragic tale of wealth, obsession, and lost love set during the Jazz Age, exposing the emptiness of the American Dream."
+      "A tragic tale of wealth, obsession, and lost love set during the Jazz Age, exposing the emptiness of the American Dream.",
   },
   {
     id: 4,
@@ -45,7 +45,7 @@ export const Books = [
     rating: "9/10",
     coverImage: "https://covers.openlibrary.org/b/id/8091016-L.jpg",
     description:
-      "A classic romantic novel exploring love, class, and misunderstandings through the sharp wit and intelligence of Elizabeth Bennet."
+      "A classic romantic novel exploring love, class, and misunderstandings through the sharp wit and intelligence of Elizabeth Bennet.",
   },
   {
     id: 5,
@@ -57,7 +57,7 @@ export const Books = [
     rating: "8/10",
     coverImage: "https://covers.openlibrary.org/b/id/8231856-L.jpg",
     description:
-      "A coming-of-age novel following Holden Caulfield as he struggles with identity, alienation, and the phoniness of the adult world."
+      "A coming-of-age novel following Holden Caulfield as he struggles with identity, alienation, and the phoniness of the adult world.",
   },
   {
     id: 6,
@@ -69,7 +69,7 @@ export const Books = [
     rating: "8.5/10",
     coverImage: "https://covers.openlibrary.org/b/id/5552226-L.jpg",
     description:
-      "An epic tale of obsession and revenge as Captain Ahab relentlessly hunts the great white whale, Moby Dick."
+      "An epic tale of obsession and revenge as Captain Ahab relentlessly hunts the great white whale, Moby Dick.",
   },
   {
     id: 7,
@@ -81,7 +81,7 @@ export const Books = [
     rating: "8.5/10",
     coverImage: "https://covers.openlibrary.org/b/id/8773270-L.jpg",
     description:
-      "A futuristic dystopia where society is engineered for stability and pleasure, sacrificing individuality and emotional depth."
+      "A futuristic dystopia where society is engineered for stability and pleasure, sacrificing individuality and emotional depth.",
   },
   {
     id: 8,
@@ -93,7 +93,7 @@ export const Books = [
     rating: "8.5/10",
     coverImage: "https://covers.openlibrary.org/b/id/9251966-L.jpg",
     description:
-      "A dystopian novel where books are banned and burned, following a fireman who begins to question censorship and conformity."
+      "A dystopian novel where books are banned and burned, following a fireman who begins to question censorship and conformity.",
   },
   {
     id: 9,
@@ -105,7 +105,7 @@ export const Books = [
     rating: "9/10",
     coverImage: "https://covers.openlibrary.org/b/id/6979861-L.jpg",
     description:
-      "A fantasy adventure following Bilbo Baggins on a journey filled with dragons, treasure, and unexpected courage."
+      "A fantasy adventure following Bilbo Baggins on a journey filled with dragons, treasure, and unexpected courage.",
   },
   {
     id: 10,
@@ -117,7 +117,7 @@ export const Books = [
     rating: "10/10",
     coverImage: "https://covers.openlibrary.org/b/id/8059256-L.jpg",
     description:
-      "An epic fantasy trilogy chronicling the quest to destroy the One Ring and defeat the Dark Lord Sauron."
+      "An epic fantasy trilogy chronicling the quest to destroy the One Ring and defeat the Dark Lord Sauron.",
   },
   {
     id: 11,
@@ -129,7 +129,7 @@ export const Books = [
     rating: "9.5/10",
     coverImage: "https://covers.openlibrary.org/b/id/8235081-L.jpg",
     description:
-      "A psychological exploration of guilt and redemption following a young man who commits murder to justify his philosophy."
+      "A psychological exploration of guilt and redemption following a young man who commits murder to justify his philosophy.",
   },
   {
     id: 12,
@@ -141,7 +141,7 @@ export const Books = [
     rating: "8/10",
     coverImage: "https://covers.openlibrary.org/b/id/8279642-L.jpg",
     description:
-      "A philosophical novel about a shepherd named Santiago who follows his dreams and discovers his personal legend."
+      "A philosophical novel about a shepherd named Santiago who follows his dreams and discovers his personal legend.",
   },
   {
     id: 13,
@@ -153,7 +153,7 @@ export const Books = [
     rating: "8.5/10",
     coverImage: "https://covers.openlibrary.org/b/id/7984916-L.jpg",
     description:
-      "The beginning of the Harry Potter series, introducing a young wizard who discovers his magical heritage."
+      "The beginning of the Harry Potter series, introducing a young wizard who discovers his magical heritage.",
   },
   {
     id: 14,
@@ -165,7 +165,7 @@ export const Books = [
     rating: "8.5/10",
     coverImage: "https://covers.openlibrary.org/b/id/6979866-L.jpg",
     description:
-      "A fantasy series set in the magical land of Narnia, where children play central roles in epic battles between good and evil."
+      "A fantasy series set in the magical land of Narnia, where children play central roles in epic battles between good and evil.",
   },
   {
     id: 15,
@@ -177,7 +177,7 @@ export const Books = [
     rating: "8.5/10",
     coverImage: "https://covers.openlibrary.org/b/id/8225231-L.jpg",
     description:
-      "A gothic romance following the life of an orphaned girl who grows into an independent woman while facing love and hardship."
+      "A gothic romance following the life of an orphaned girl who grows into an independent woman while facing love and hardship.",
   },
   {
     id: 16,
@@ -189,7 +189,7 @@ export const Books = [
     rating: "8/10",
     coverImage: "https://covers.openlibrary.org/b/id/8231993-L.jpg",
     description:
-      "A dark and passionate story of love, revenge, and obsession set on the Yorkshire moors."
+      "A dark and passionate story of love, revenge, and obsession set on the Yorkshire moors.",
   },
   {
     id: 17,
@@ -201,7 +201,7 @@ export const Books = [
     rating: "9/10",
     coverImage: "https://covers.openlibrary.org/b/id/8225265-L.jpg",
     description:
-      "A haunting story narrated by Death, following a young girl in Nazi Germany who finds solace in stealing books."
+      "A haunting story narrated by Death, following a young girl in Nazi Germany who finds solace in stealing books.",
   },
   {
     id: 18,
@@ -213,7 +213,7 @@ export const Books = [
     rating: "8/10",
     coverImage: "https://covers.openlibrary.org/b/id/7235236-L.jpg",
     description:
-      "A dystopian novel where teenagers are forced to fight to the death in a televised spectacle controlled by a tyrannical government."
+      "A dystopian novel where teenagers are forced to fight to the death in a televised spectacle controlled by a tyrannical government.",
   },
   {
     id: 19,
@@ -225,7 +225,7 @@ export const Books = [
     rating: "7.5/10",
     coverImage: "https://covers.openlibrary.org/b/id/240726-L.jpg",
     description:
-      "A fast-paced thriller involving secret societies, religious mysteries, and historical conspiracies."
+      "A fast-paced thriller involving secret societies, religious mysteries, and historical conspiracies.",
   },
   {
     id: 20,
@@ -237,7 +237,606 @@ export const Books = [
     rating: "9/10",
     coverImage: "https://covers.openlibrary.org/b/id/8231857-L.jpg",
     description:
-      "A poetic and philosophical tale about love, loss, and human nature, told through the eyes of a young prince."
-  }
+      "A poetic and philosophical tale about love, loss, and human nature, told through the eyes of a young prince.",
+  },
+  {
+    id: 21,
+    title: "A Brief History of Time",
+    author: "Stephen Hawking",
+    publishedDate: "1988-04-01",
+    pages: 212,
+    category: "science",
+    rating: "9/10",
+    coverImage: "https://covers.openlibrary.org/b/id/15104429-L.jpg",
+    description:
+      "A landmark volume in science writing by one of the great minds of our time, exploring profound questions about the origin and fate of the universe.",
+  },
+  {
+    id: 22,
+    title: "The Origin of Species",
+    author: "Charles Darwin",
+    publishedDate: "1859-11-24",
+    pages: 502,
+    category: "science",
+    rating: "10/10",
+    coverImage: "https://covers.openlibrary.org/b/id/8259449-L.jpg",
+    description:
+      "Darwin's revolutionary theory of evolution by natural selection, forever changing our understanding of life on Earth.",
+  },
+  {
+    id: 23,
+    title: "Cosmos",
+    author: "Carl Sagan",
+    publishedDate: "1980-01-01",
+    pages: 365,
+    category: "science",
+    rating: "9/10",
+    coverImage: "https://covers.openlibrary.org/b/id/8380866-L.jpg",
+    description:
+      "A journey through space and time, exploring the universe's most profound mysteries and humanity's place within it.",
+  },
+  {
+    id: 24,
+    title: "The Selfish Gene",
+    author: "Richard Dawkins",
+    publishedDate: "1976-03-01",
+    pages: 224,
+    category: "science",
+    rating: "9/10",
+    coverImage: "https://covers.openlibrary.org/b/id/8278316-L.jpg",
+    description:
+      "A revolutionary look at evolution from the perspective of genes, introducing the concept of genes as the key drivers of natural selection.",
+  },
+  {
+    id: 25,
+    title: "Silent Spring",
+    author: "Rachel Carson",
+    publishedDate: "1962-09-27",
+    pages: 400,
+    category: "science",
+    rating: "9/10",
+    coverImage: "https://covers.openlibrary.org/b/id/9486668-L.jpg",
+    description:
+      "The groundbreaking environmental science book that exposed the dangers of pesticides and launched the modern environmental movement.",
+  },
+  {
+    id: 26,
+    title: "The Double Helix",
+    author: "James D. Watson",
+    publishedDate: "1968-01-01",
+    pages: 226,
+    category: "science",
+    rating: "8/10",
+    coverImage: "https://covers.openlibrary.org/b/id/11224947-L.jpg",
+    description:
+      "A personal account of the discovery of the structure of DNA, one of the most significant scientific achievements of the 20th century.",
+  },
+  {
+    id: 27,
+    title: "Sapiens: A Brief History of Humankind",
+    author: "Yuval Noah Harari",
+    publishedDate: "2014-01-01",
+    pages: 443,
+    category: "science",
+    rating: "9/10",
+    coverImage: "https://covers.openlibrary.org/b/id/8136577-L.jpg",
+    description:
+      "A bold and provocative narrative that explores how biology and history have defined us and enhanced our understanding of what it means to be human.",
+  },
+  {
+    id: 28,
+    title: "The Immortal Life of Henrietta Lacks",
+    author: "Rebecca Skloot",
+    publishedDate: "2010-02-02",
+    pages: 381,
+    category: "science",
+    rating: "9/10",
+    coverImage: "https://covers.openlibrary.org/b/id/6948566-L.jpg",
+    description:
+      "The story of Henrietta Lacks and the immortal cell line, HeLa, that came from her cells, changing medicine forever.",
+  },
+  {
+    id: 29,
+    title: "Surely You're Joking, Mr. Feynman!",
+    author: "Richard Feynman",
+    publishedDate: "1985-01-01",
+    pages: 350,
+    category: "science",
+    rating: "9/10",
+    coverImage: "https://covers.openlibrary.org/b/id/10981347-L.jpg",
+    description:
+      "The entertaining and insightful autobiographical tales of Nobel Prize-winning physicist Richard Feynman's life and work.",
+  },
+  {
+    id: 30,
+    title: "The Elegant Universe",
+    author: "Brian Greene",
+    publishedDate: "1999-01-01",
+    pages: 448,
+    category: "science",
+    rating: "8/10",
+    coverImage: "https://covers.openlibrary.org/b/id/8310482-L.jpg",
+    description:
+      "A fascinating introduction to string theory and the nature of space-time, making complex physics accessible to general readers.",
+  },
+  {
+    id: 31,
+    title: "Thinking, Fast and Slow",
+    author: "Daniel Kahneman",
+    publishedDate: "2011-10-25",
+    pages: 499,
+    category: "psychology",
+    rating: "9/10",
+    coverImage: "https://covers.openlibrary.org/b/id/15129456-L.jpg",
+    description:
+      "A groundbreaking tour of the mind's two systems that drive the way we think and make choices, by Nobel laureate Daniel Kahneman.",
+  },
+  {
+    id: 32,
+    title: "Man's Search for Meaning",
+    author: "Viktor E. Frankl",
+    publishedDate: "1946-01-01",
+    pages: 200,
+    category: "psychology",
+    rating: "10/10",
+    coverImage: "https://covers.openlibrary.org/b/id/15102812-L.jpg",
+    description:
+      "A poignant memoir and psychological exploration of finding purpose and meaning in life even in the most horrific circumstances.",
+  },
+  {
+    id: 33,
+    title: "The Man Who Mistook His Wife for a Hat",
+    author: "Oliver Sacks",
+    publishedDate: "1985-01-01",
+    pages: 243,
+    category: "psychology",
+    rating: "9/10",
+    coverImage: "https://covers.openlibrary.org/b/id/8316351-L.jpg",
+    description:
+      "A collection of fascinating clinical tales about patients suffering from neurological disorders that reveal the mysteries of the human brain.",
+  },
+  {
+    id: 34,
+    title: "Influence: The Psychology of Persuasion",
+    author: "Robert Cialdini",
+    publishedDate: "1984-01-01",
+    pages: 320,
+    category: "psychology",
+    rating: "9/10",
+    coverImage: "https://covers.openlibrary.org/b/id/8259446-L.jpg",
+    description:
+      "An essential guide to understanding the psychology behind why people say yes and how to apply these principles ethically.",
+  },
+  {
+    id: 35,
+    title: "The Power of Habit",
+    author: "Charles Duhigg",
+    publishedDate: "2012-02-28",
+    pages: 371,
+    category: "psychology",
+    rating: "8/10",
+    coverImage: "https://covers.openlibrary.org/b/id/10981357-L.jpg",
+    description:
+      "An engaging exploration of the science of habits and how understanding them can transform our lives, businesses, and communities.",
+  },
+  {
+    id: 36,
+    title: "Flow: The Psychology of Optimal Experience",
+    author: "Mihaly Csikszentmihalyi",
+    publishedDate: "1990-01-01",
+    pages: 336,
+    category: "psychology",
+    rating: "9/10",
+    coverImage: "https://covers.openlibrary.org/b/id/8317903-L.jpg",
+    description:
+      "A seminal work on the state of flow, revealing how we can achieve heightened focus and happiness in our daily activities.",
+  },
+  {
+    id: 37,
+    title: "Predictably Irrational",
+    author: "Dan Ariely",
+    publishedDate: "2008-02-01",
+    pages: 280,
+    category: "psychology",
+    rating: "8/10",
+    coverImage: "https://covers.openlibrary.org/b/id/8201156-L.jpg",
+    description:
+      "A fascinating investigation into the hidden forces that shape our decisions, revealing how irrational human behavior often is.",
+  },
+  {
+    id: 38,
+    title: "The Body Keeps the Score",
+    author: "Bessel van der Kolk",
+    publishedDate: "2014-09-25",
+    pages: 443,
+    category: "psychology",
+    rating: "10/10",
+    coverImage: "https://covers.openlibrary.org/b/id/13130770-L.jpg",
+    description:
+      "A pioneering researcher explores the impact of trauma on the body and brain, offering innovative treatments for recovery.",
+  },
+  {
+    id: 39,
+    title: "Emotional Intelligence",
+    author: "Daniel Goleman",
+    publishedDate: "1995-09-01",
+    pages: 352,
+    category: "psychology",
+    rating: "8/10",
+    coverImage: "https://covers.openlibrary.org/b/id/8310486-L.jpg",
+    description:
+      "A groundbreaking book that redefines what it means to be smart, arguing that emotional intelligence matters more than IQ.",
+  },
+  {
+    id: 40,
+    title: "The Happiness Hypothesis",
+    author: "Jonathan Haidt",
+    publishedDate: "2006-01-01",
+    pages: 297,
+    category: "psychology",
+    rating: "8/10",
+    coverImage: "https://covers.openlibrary.org/b/id/8317219-L.jpg",
+    description:
+      "An engaging investigation into ancient wisdom and modern psychology, searching for the truth about happiness and human flourishing.",
+  },
+  {
+    id: 41,
+    title: "Hamlet",
+    author: "William Shakespeare",
+    publishedDate: "1603-01-01",
+    pages: 342,
+    category: "drama",
+    rating: "10/10",
+    coverImage: "https://covers.openlibrary.org/b/id/8228693-L.jpg",
+    description:
+      "The tragic story of the Prince of Denmark's quest for revenge, exploring themes of mortality, madness, and moral corruption.",
+  },
+  {
+    id: 42,
+    title: "Macbeth",
+    author: "William Shakespeare",
+    publishedDate: "1623-01-01",
+    pages: 132,
+    category: "drama",
+    rating: "9/10",
+    coverImage: "https://covers.openlibrary.org/b/id/14412346-L.jpg",
+    description:
+      "A chilling tragedy about ambition, guilt, and tyranny, following a Scottish general's violent rise and fall from power.",
+  },
+  {
+    id: 43,
+    title: "Romeo and Juliet",
+    author: "William Shakespeare",
+    publishedDate: "1597-01-01",
+    pages: 283,
+    category: "drama",
+    rating: "9/10",
+    coverImage: "https://covers.openlibrary.org/b/id/8385724-L.jpg",
+    description:
+      "The timeless tale of two young star-crossed lovers whose deaths ultimately reconcile their feuding families.",
+  },
+  {
+    id: 44,
+    title: "A Streetcar Named Desire",
+    author: "Tennessee Williams",
+    publishedDate: "1947-12-03",
+    pages: 107,
+    category: "drama",
+    rating: "9/10",
+    coverImage: "https://covers.openlibrary.org/b/id/8259444-L.jpg",
+    description:
+      "A powerful drama depicting the clash between fading Southern aristocracy and the rising working class in New Orleans.",
+  },
+  {
+    id: 45,
+    title: "Death of a Salesman",
+    author: "Arthur Miller",
+    publishedDate: "1949-02-10",
+    pages: 139,
+    category: "drama",
+    rating: "9/10",
+    coverImage: "https://covers.openlibrary.org/b/id/8259445-L.jpg",
+    description:
+      "A poignant tragedy examining the American Dream through the final days of Willy Loman, a struggling salesman.",
+  },
+  {
+    id: 46,
+    title: "Oedipus Rex",
+    author: "Sophocles",
+    publishedDate: "-0430-01-01",
+    pages: 75,
+    category: "drama",
+    rating: "9/10",
+    coverImage: "https://covers.openlibrary.org/b/id/8380865-L.jpg",
+    description:
+      "An ancient Greek tragedy depicting the fate of Oedipus, who unknowingly kills his father and marries his mother.",
+  },
+  {
+    id: 47,
+    title: "The Crucible",
+    author: "Arthur Miller",
+    publishedDate: "1953-01-22",
+    pages: 143,
+    category: "drama",
+    rating: "9/10",
+    coverImage: "https://covers.openlibrary.org/b/id/8270831-L.jpg",
+    description:
+      "A powerful allegory of McCarthyism using the Salem witch trials to explore mass hysteria and personal integrity.",
+  },
+  {
+    id: 48,
+    title: "King Lear",
+    author: "William Shakespeare",
+    publishedDate: "1606-01-01",
+    pages: 320,
+    category: "drama",
+    rating: "9/10",
+    coverImage: "https://covers.openlibrary.org/b/id/8385725-L.jpg",
+    description:
+      "A devastating tragedy of an aging king who divides his kingdom between his daughters, leading to betrayal and madness.",
+  },
+  {
+    id: 49,
+    title: "Waiting for Godot",
+    author: "Samuel Beckett",
+    publishedDate: "1953-01-05",
+    pages: 109,
+    category: "drama",
+    rating: "8/10",
+    coverImage: "https://covers.openlibrary.org/b/id/8313643-L.jpg",
+    description:
+      "A seminal work of absurdist theater following two men waiting for someone named Godot who never arrives.",
+  },
+  {
+    id: 50,
+    title: "Medea",
+    author: "Euripides",
+    publishedDate: "-0431-01-01",
+    pages: 47,
+    category: "drama",
+    rating: "8/10",
+    coverImage: "https://covers.openlibrary.org/b/id/8317322-L.jpg",
+    description:
+      "A harrowing Greek tragedy about betrayal, revenge, and the monstrous consequences of a woman's scorned love.",
+  },
+  {
+    id: 51,
+    title: "Atomic Habits",
+    author: "James Clear",
+    publishedDate: "2018-10-16",
+    pages: 320,
+    category: "self-help",
+    rating: "9/10",
+    coverImage: "https://covers.openlibrary.org/b/id/14589634-L.jpg",
+    description:
+      "A practical guide to building good habits and breaking bad ones through tiny changes that compound into remarkable results.",
+  },
+  {
+    id: 52,
+    title: "The 7 Habits of Highly Effective People",
+    author: "Stephen R. Covey",
+    publishedDate: "1989-08-15",
+    pages: 381,
+    category: "self-help",
+    rating: "9/10",
+    coverImage: "https://covers.openlibrary.org/b/id/8259443-L.jpg",
+    description:
+      "A principle-centered approach to personal and interpersonal effectiveness that has transformed millions of lives worldwide.",
+  },
+  {
+    id: 53,
+    title: "How to Win Friends and Influence People",
+    author: "Dale Carnegie",
+    publishedDate: "1936-10-01",
+    pages: 288,
+    category: "self-help",
+    rating: "9/10",
+    coverImage: "https://covers.openlibrary.org/b/id/8310483-L.jpg",
+    description:
+      "The timeless classic offering practical advice on improving communication skills and building lasting relationships.",
+  },
+  {
+    id: 54,
+    title: "The Subtle Art of Not Giving a F*ck",
+    author: "Mark Manson",
+    publishedDate: "2016-09-13",
+    pages: 224,
+    category: "self-help",
+    rating: "8/10",
+    coverImage: "https://covers.openlibrary.org/b/id/8264386-L.jpg",
+    description:
+      "A counterintuitive approach to living a good life, focusing on what truly matters and letting go of superficial positivity.",
+  },
+  {
+    id: 55,
+    title: "Daring Greatly",
+    author: "Brené Brown",
+    publishedDate: "2012-09-11",
+    pages: 287,
+    category: "self-help",
+    rating: "8/10",
+    coverImage: "https://covers.openlibrary.org/b/id/8313644-L.jpg",
+    description:
+      "A transformative book about the power of vulnerability and how embracing our imperfections leads to courage and connection.",
+  },
+  {
+    id: 56,
+    title: "Grit: The Power of Passion and Perseverance",
+    author: "Angela Duckworth",
+    publishedDate: "2016-05-03",
+    pages: 333,
+    category: "self-help",
+    rating: "8/10",
+    coverImage: "https://covers.openlibrary.org/b/id/8264387-L.jpg",
+    description:
+      "A research-based exploration of why passion and perseverance matter more than talent for achieving success.",
+  },
+  {
+    id: 57,
+    title: "Mindset: The New Psychology of Success",
+    author: "Carol S. Dweck",
+    publishedDate: "2006-02-28",
+    pages: 276,
+    category: "self-help",
+    rating: "9/10",
+    coverImage: "https://covers.openlibrary.org/b/id/8310484-L.jpg",
+    description:
+      "An illuminating exploration of fixed versus growth mindsets and how our beliefs about abilities shape our success.",
+  },
+  {
+    id: 58,
+    title: "The Four Agreements",
+    author: "Don Miguel Ruiz",
+    publishedDate: "1997-01-01",
+    pages: 138,
+    category: "self-help",
+    rating: "8/10",
+    coverImage: "https://covers.openlibrary.org/b/id/8310485-L.jpg",
+    description:
+      "A practical guide to personal freedom based on ancient Toltec wisdom, offering four principles for a fulfilling life.",
+  },
+  {
+    id: 59,
+    title: "Essentialism: The Disciplined Pursuit of Less",
+    author: "Greg McKeown",
+    publishedDate: "2014-04-15",
+    pages: 260,
+    category: "self-help",
+    rating: "8/10",
+    coverImage: "https://covers.openlibrary.org/b/id/10981348-L.jpg",
+    description:
+      "A systematic approach to doing less but better, helping readers focus on what truly matters in their lives and work.",
+  },
+  {
+    id: 60,
+    title: "Deep Work",
+    author: "Cal Newport",
+    publishedDate: "2016-01-05",
+    pages: 304,
+    category: "self-help",
+    rating: "9/10",
+    coverImage: "https://covers.openlibrary.org/b/id/8264388-L.jpg",
+    description:
+      "A compelling argument for the value of focused work in an age of distraction, with rules for cultivating deep work habits.",
+  },
+  {
+    id: 61,
+    title: "1984",
+    author: "George Orwell",
+    publishedDate: "1949-06-08",
+    pages: 368,
+    category: "fiction",
+    rating: "10/10",
+    coverImage: "https://covers.openlibrary.org/b/id/7222245-L.jpg",
+    description:
+      "A dystopian masterpiece depicting a totalitarian future society under constant surveillance and the manipulation of truth.",
+  },
+  {
+    id: 62,
+    title: "To Kill a Mockingbird",
+    author: "Harper Lee",
+    publishedDate: "1960-07-11",
+    pages: 336,
+    category: "fiction",
+    rating: "10/10",
+    coverImage: "https://covers.openlibrary.org/b/id/8389863-L.jpg",
+    description:
+      "A profound novel exploring racial injustice in the American South through the innocent eyes of a young girl named Scout.",
+  },
+  {
+    id: 63,
+    title: "The Great Gatsby",
+    author: "F. Scott Fitzgerald",
+    publishedDate: "1925-04-10",
+    pages: 180,
+    category: "fiction",
+    rating: "9/10",
+    coverImage: "https://covers.openlibrary.org/b/id/8380895-L.jpg",
+    description:
+      "A tragic examination of the American Dream set in the Jazz Age, centered on the mysterious millionaire Jay Gatsby.",
+  },
+  {
+    id: 64,
+    title: "Pride and Prejudice",
+    author: "Jane Austen",
+    publishedDate: "1813-01-28",
+    pages: 279,
+    category: "fiction",
+    rating: "9/10",
+    coverImage: "https://covers.openlibrary.org/b/id/8380927-L.jpg",
+    description:
+      "A witty romantic novel exploring manners, upbringing, morality, and marriage in the society of the landed gentry of early 19th-century England.",
+  },
+  {
+    id: 65,
+    title: "The Alchemist",
+    author: "Paulo Coelho",
+    publishedDate: "1988-01-01",
+    pages: 208,
+    category: "fiction",
+    rating: "8/10",
+    coverImage: "https://covers.openlibrary.org/b/id/14737330-L.jpg",
+    description:
+      "An allegorical novel about a young shepherd's journey to Egypt after having recurring dreams of finding treasure.",
+  },
+  {
+    id: 66,
+    title: "One Hundred Years of Solitude",
+    author: "Gabriel García Márquez",
+    publishedDate: "1967-05-30",
+    pages: 417,
+    category: "fiction",
+    rating: "9/10",
+    coverImage: "https://covers.openlibrary.org/b/id/8380931-L.jpg",
+    description:
+      "A landmark magical realist novel chronicling seven generations of the Buendía family in the fictional town of Macondo.",
+  },
+  {
+    id: 67,
+    title: "The Catcher in the Rye",
+    author: "J.D. Salinger",
+    publishedDate: "1951-07-16",
+    pages: 277,
+    category: "fiction",
+    rating: "8/10",
+    coverImage: "https://covers.openlibrary.org/b/id/8278317-L.jpg",
+    description:
+      "A controversial coming-of-age story following Holden Caulfield's cynical journey through New York City after being expelled from prep school.",
+  },
+  {
+    id: 68,
+    title: "Brave New World",
+    author: "Aldous Huxley",
+    publishedDate: "1932-01-01",
+    pages: 311,
+    category: "fiction",
+    rating: "9/10",
+    coverImage: "https://covers.openlibrary.org/b/id/8380867-L.jpg",
+    description:
+      "A dystopian vision of a future society engineered for stability and happiness through genetic modification and psychological conditioning.",
+  },
+  {
+    id: 69,
+    title: "The Kite Runner",
+    author: "Khaled Hosseini",
+    publishedDate: "2003-05-29",
+    pages: 371,
+    category: "fiction",
+    rating: "9/10",
+    coverImage: "https://covers.openlibrary.org/b/id/8310487-L.jpg",
+    description:
+      "A powerful story of friendship, betrayal, and redemption set against the turbulent backdrop of modern Afghanistan.",
+  },
+  {
+    id: 70,
+    title: "Beloved",
+    author: "Toni Morrison",
+    publishedDate: "1987-09-16",
+    pages: 275,
+    category: "fiction",
+    rating: "9/10",
+    coverImage: "https://covers.openlibrary.org/b/id/8380932-L.jpg",
+    description:
+      "A haunting tale of a formerly enslaved woman haunted by the ghost of her baby, exploring the devastating legacy of slavery.",
+  },
 ];
- 
