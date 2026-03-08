@@ -14,7 +14,7 @@ function BookList() {
   const categoryFilterBooks = filterBookByCategory(
     filteredBooks,
     selectedCategory,
-  );
+  );  
 
   function filterSearchList(filterSearchBook) {
     setFilteredBooks(filterSearchBook);
